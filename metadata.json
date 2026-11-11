@@ -1,0 +1,8 @@
+{
+  "name": "Play Time - Child Proof Video Player & Screen Lock",
+  "description": "Child-proof media player for Android phones and tablets. Prohibits screen touches, prevents drop-down menu and volume tampering, and locks playback to child-safe cartoons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
